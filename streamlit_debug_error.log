@@ -1,0 +1,5 @@
+2026-10-25 11:21:47.259 Uvicorn server started on :::8502
+C:\Users\rahul\Downloads\CarPhotoStudio-main\.venv\Lib\site-packages\fitz\__init__.py:17: FutureWarning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+  warnings.warn(
+C:\Users\rahul\Downloads\CarPhotoStudio-main\.venv\Lib\site-packages\torch\jit\_serialization.py:176: FutureWarning: `torch.jit.load` is deprecated. Please switch to `torch.export`.
+  warnings.warn(
